@@ -1,0 +1,157 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/sun_cloud_mid_rain.png
+  - assets/images/sun_cloud_angled_rain.png
+  - assets/images/tornado.png
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/rectangle_11_x2.svg
+  - assets/vectors/rectangle_113_x2.svg
+  - assets/vectors/rectangle_16_x2.svg
+  - assets/vectors/icon_mobile_signal_5_x2.svg
+  - assets/vectors/rectangle_110_x2.svg
+  - assets/vectors/rectangle_15_x2.svg
+  - assets/vectors/icon_magnifyingglass_x2.svg
+  - assets/vectors/rectangle_13_x2.svg
+  - assets/vectors/wifi_4_x2.svg
+  - assets/images/screen_shot_20220426_at_11351.png
+  - assets/vectors/ellipse_2_x2.svg
+  - assets/vectors/ellipse_35_x2.svg
+  - assets/images/feels_like.png
+  - assets/images/sunrise.png
+  - assets/images/sun_cloud_angled_rain.png
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/wind.png
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/images/pressure.png
+  - assets/images/sun_cloud_mid_rain.png
+  - assets/images/humidity.png
+  - assets/images/uv_index.png
+  - assets/images/house_43.png
+  - assets/images/widgets.png
+  - assets/images/visibility.png
+  - assets/images/photo_143689162058447_fd_0_e_565_afb_1.png
+  - assets/images/rainfall.png
+  - assets/vectors/ellipse_32_x2.svg
+  - assets/vectors/subtract_x2.svg
+  - assets/vectors/shape_3_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/icon_mobile_signal_4_x2.svg
+  - assets/vectors/rectangle_364_x2.svg
+  - assets/vectors/shape_1_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/ellipse_26_x2.svg
+  - assets/vectors/ellipse_3_x2.svg
+  - assets/vectors/indicator_2_x2.svg
+  - assets/vectors/ellipse_23_x2.svg
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/sun_cloud_mid_rain.png
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/images/sun_cloud_angled_rain.png
+  - assets/vectors/ellipse_33_x2.svg
+  - assets/vectors/indicator_x2.svg
+  - assets/vectors/indicator_3_x2.svg
+  - assets/vectors/ellipse_22_x2.svg
+  - assets/vectors/ellipse_36_x2.svg
+  - assets/vectors/ellipse_25_x2.svg
+  - assets/images/visibility.png
+  - assets/images/feels_like.png
+  - assets/images/wind.png
+  - assets/images/pressure.png
+  - assets/images/house_43.png
+  - assets/images/photo_143689162058447_fd_0_e_565_afb_1.png
+  - assets/images/sun_cloud_angled_rain.png
+  - assets/images/uv_index.png
+  - assets/images/widgets.png
+  - assets/images/humidity.png
+  - assets/images/house.png
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/sun_cloud_mid_rain.png
+  - assets/images/rainfall.png
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/images/sunrise.png
+  - assets/vectors/shape_2_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/shape_x2.svg
+  - assets/vectors/rectangle_3642_x2.svg
+  - assets/vectors/ellipse_34_x2.svg
+  - assets/vectors/subtract_3_x2.svg
+  - assets/vectors/shape_4_x2.svg
+  - assets/vectors/ellipse_21_x2.svg
+  - assets/vectors/ellipse_24_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/ellipse_27_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/icon_mobile_signal_x2.svg
+  - assets/vectors/ellipse_37_x2.svg
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/subtract_2_x2.svg
+  - assets/vectors/icon_mobile_signal_1_x2.svg
+  - assets/vectors/ellipse_31_x2.svg
+  - assets/vectors/indicator_1_x2.svg
+  - assets/vectors/rectangle_3643_x2.svg
+  - assets/images/sun_cloud_mid_rain.png
+  - assets/images/tornado.png
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/sun_cloud_angled_rain.png
+  - assets/images/house_43.png
+  - assets/images/photo_143689162058447_fd_0_e_565_afb_1.png
+  - assets/vectors/icon_mobile_signal_3_x2.svg
+  - assets/vectors/subtract_1_x2.svg
+  - assets/vectors/battery_6_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/icon_magnifyingglass_1_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/icon_mobile_signal_2_x2.svg
+  - assets/vectors/icon_mobile_signal_6_x2.svg
+  - assets/vectors/icon_magnifyingglass_3_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/wifi_6_x2.svg
+  - assets/vectors/rectangle_3641_x2.svg
+  - assets/images/moon_cloud_fast_wind.png
+  - assets/images/tornado.png
+  - assets/images/moon_cloud_mid_rain.png
+  - assets/images/sun_cloud_angled_rain.png
+  - assets/vectors/rectangle_111_x2.svg
+  - assets/vectors/rectangle_17_x2.svg
+  - assets/vectors/rectangle_12_x2.svg
+  - assets/vectors/rectangle_19_x2.svg
+  - assets/vectors/rectangle_18_x2.svg
+  - assets/vectors/rectangle_112_x2.svg
+  - assets/images/rainfall.png
+  - assets/images/visibility.png
+  - assets/images/sunrise.png
+  - assets/images/widgets.png
+  - assets/images/humidity.png
+  - assets/images/pressure.png
+  - assets/images/uv_index.png
+  - assets/images/wind.png
+  - assets/images/feels_like.png
+
